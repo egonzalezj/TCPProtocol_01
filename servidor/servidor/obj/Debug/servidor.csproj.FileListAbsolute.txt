@@ -1,0 +1,15 @@
+c:\users\elisabet\documents\visual studio 2013\Projects\servidor\servidor\bin\Debug\servidor.exe.config
+c:\users\elisabet\documents\visual studio 2013\Projects\servidor\servidor\bin\Debug\servidor.exe
+c:\users\elisabet\documents\visual studio 2013\Projects\servidor\servidor\bin\Debug\servidor.pdb
+c:\users\elisabet\documents\visual studio 2013\Projects\servidor\servidor\obj\Debug\servidor.csprojResolveAssemblyReference.cache
+c:\users\elisabet\documents\visual studio 2013\Projects\servidor\servidor\obj\Debug\servidor.exe
+c:\users\elisabet\documents\visual studio 2013\Projects\servidor\servidor\obj\Debug\servidor.pdb
+C:\Users\Elisabet\Dropbox\Tesis Elisabet\C#\servidor\servidor\bin\Debug\servidor.exe.config
+C:\Users\Elisabet\Dropbox\Tesis Elisabet\C#\servidor\servidor\obj\Debug\servidor.exe
+C:\Users\Elisabet\Dropbox\Tesis Elisabet\C#\servidor\servidor\obj\Debug\servidor.pdb
+C:\Users\Elisabet\Dropbox\Tesis Elisabet\C#\servidor\servidor\bin\Debug\servidor.exe
+C:\Users\Elisabet\Dropbox\Tesis Elisabet\C#\servidor\servidor\bin\Debug\servidor.pdb
+C:\Users\Elisabet\Dropbox\Tesis Elisabet\C#\servidor\servidor\obj\Debug\servidor.csprojResolveAssemblyReference.cache
+C:\Users\Elisabet\Dropbox\Escuela\ITCH\MCIE\Tesis\Github\TCPProtocol_01\servidor\servidor\bin\Debug\servidor.exe.config
+C:\Users\Elisabet\Dropbox\Escuela\ITCH\MCIE\Tesis\Github\TCPProtocol_01\servidor\servidor\obj\Debug\servidor.exe
+C:\Users\Elisabet\Dropbox\Escuela\ITCH\MCIE\Tesis\Github\TCPProtocol_01\servidor\servidor\obj\Debug\servidor.pdb

@@ -1,0 +1,10 @@
+c:\users\elisabet\documents\visual studio 2013\Projects\cliente\cliente\bin\Debug\cliente.exe.config
+c:\users\elisabet\documents\visual studio 2013\Projects\cliente\cliente\bin\Debug\cliente.exe
+c:\users\elisabet\documents\visual studio 2013\Projects\cliente\cliente\bin\Debug\cliente.pdb
+c:\users\elisabet\documents\visual studio 2013\Projects\cliente\cliente\obj\Debug\cliente.exe
+c:\users\elisabet\documents\visual studio 2013\Projects\cliente\cliente\obj\Debug\cliente.pdb
+C:\Users\Elisabet\Dropbox\Tesis Elisabet\C#\cliente\cliente\bin\Debug\cliente.exe.config
+C:\Users\Elisabet\Dropbox\Tesis Elisabet\C#\cliente\cliente\obj\Debug\cliente.exe
+C:\Users\Elisabet\Dropbox\Tesis Elisabet\C#\cliente\cliente\obj\Debug\cliente.pdb
+C:\Users\Elisabet\Dropbox\Tesis Elisabet\C#\cliente\cliente\bin\Debug\cliente.exe
+C:\Users\Elisabet\Dropbox\Tesis Elisabet\C#\cliente\cliente\bin\Debug\cliente.pdb

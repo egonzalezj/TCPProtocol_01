@@ -23,13 +23,14 @@ namespace servidor
             IPEndPoint ep = new IPEndPoint(IPAddress.Any, 4444); // Puerto 4444
 
             try {
+                Console.WriteLine("Esperando conexión...");
                 sServidor.Bind(ep);
                 sServidor.Listen(100);
                 sServidor.Accept();
-                Console.WriteLine("Conectado con el servidor");
+                Console.WriteLine("Conectado con el servidor.");
             }
             catch {
-                Console.WriteLine("Error al conectar con el servidor");
+                Console.WriteLine("Error al conectar con el servidor.");
             }
             Console.ReadKey();
             sServidor.Close();

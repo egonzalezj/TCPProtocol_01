@@ -23,7 +23,7 @@ namespace cliente
 
             try {
                 sCliente.Connect(ep);
-                Console.WriteLine("Conectado");
+                Console.WriteLine("Conectado.");
             }
             catch {
                 Console.WriteLine("Error al conectar con el servidor.");

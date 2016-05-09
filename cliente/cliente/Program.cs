@@ -18,6 +18,7 @@ namespace cliente
         {
             //Crea el socket para envio de datos sobre TCP
             Socket sCliente = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+            //Inicializa una nueva estancia de la clase IPEndPoint con la dirección y el número de puertos especificados
             IPEndPoint ep = new IPEndPoint(IPAddress.Parse("127.0.0.1"), 4444); // Puerto 4444
 
             try {

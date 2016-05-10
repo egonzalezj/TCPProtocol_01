@@ -5,6 +5,9 @@
  * Despliega un mensaje para indicar que la conexión se realizó correctamente.
  * Fecha: 21 de enero de 2015
  * Versión 1.0
+ * 
+ * History:
+ *  v1.1    09/05/2016  Adición de constantes para hostname.
  */
 
 using System;
@@ -19,8 +22,10 @@ namespace servidor
         {
             //Crea el socket para envio de datos sobre TCP
             Socket sServidor = new Socket(AddressFamily.InterNetwork, SocketType.Stream, ProtocolType.Tcp);
+            //Socket Server HostName, IP Address and Port
+            const int puerto = 4444;
             //Inicializa una nueva estancia de la clase IPEndPoint con la dirección y el número de puertos especificados
-            IPEndPoint ep = new IPEndPoint(IPAddress.Any, 4444); // Puerto 4444
+            IPEndPoint ep = new IPEndPoint(IPAddress.Any, puerto); // Puerto 4444
 
             try {
                 Console.WriteLine("Esperando conexión...");
